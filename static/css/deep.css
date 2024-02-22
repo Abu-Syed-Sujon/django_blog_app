@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(47, 0, 255);
+}
+
+p {
+ color: azure;
+ font-weight: 900;
+ font-size: 20px;
+}
+
+img{
+    height: 400px;;
+    width: 500px;
+}

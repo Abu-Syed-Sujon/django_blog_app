@@ -1,0 +1,16 @@
+form{
+    border:5px solid blue;
+}
+label{
+    font-size: 25px;
+    color: red;
+}
+input{
+    height: 20px;
+    width: 400px;
+    background-color: aquamarine;
+    color: black;
+}
+#id_textarea{
+    background-color: aquamarine;
+}
